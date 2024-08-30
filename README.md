@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on nothing
+- 🔭 I’m currently student in UFOP
 - 🌱 I’m currently learning C/C++, JavaScript
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with C/C++
