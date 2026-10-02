@@ -1,15 +1,1 @@
-## Hi there 👋
-
-
-**Guijrios/Guijrios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently student in UFOP
-- 🌱 I’m currently learning C/C++, JavaScript
-- 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking for help with C/C++
-- 💬 Ask me about Taylor Swift
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Nothing LoL
-
+Interesse acadêmico e profissional nas áreas de desenvolvimento de software, algoritmos e estruturas de dados, grafos, programação dinâmica, análise de complexidade, otimização, engenharia de software, modelagem de sistemas (UML), banco de dados e sistemas (arquitetura de computadores, redes de computadores e sistemas distribuídos). Minhas habilidades técnicas incluem as linguagens de programação C, C++, Java, Python e SQL, além de conhecimentos em modelagem relacional, normalização de banco de dados e no ciclo de vida de desenvolvimento de software.
